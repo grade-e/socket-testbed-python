@@ -1,0 +1,5 @@
+# Basic requirements
+PyYAML>=6.0
+
+# For testing
+pytest>=7.0
